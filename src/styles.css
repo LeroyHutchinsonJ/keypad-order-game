@@ -1,4 +1,9 @@
-.App {
+.Index {
   font-family: sans-serif;
   text-align: center;
+}
+
+.flexStack {
+  display: flex;
+  flex-direction: column;
 }
